@@ -35,11 +35,11 @@
 ### Шаг 1. Открыть файл с данными и изучить общую информацию
 
 #### Путь к файлам:
-##### /datasets/calls.csv
-##### /datasets/internet.csv
-##### /datasets/messages.csv
-##### /datasets/tariffs.csv
-##### /datasets/users.csv
+##### calls.csv
+##### internet.csv
+##### messages.csv
+##### tariffs.csv
+##### users.csv
 
 ### Шаг 2. Подготовить данные
 
